@@ -1,0 +1,20 @@
+h1{
+    font-size: 4rem !important;
+}
+.btn{
+
+    padding: 20px !important;
+    border-radius: 10px !important;
+
+}
+.back{
+    border-radius: 10px !important;
+    box-shadow: 5px 3px 5px 3px rgb(0, 0, 0,0.7);
+}
+
+#quote , button, h1{
+    font-family: 'Fredericka the Great', cursive !important;
+}
+button:hover , .back:hover{
+    background-color: rgb(0, 0, 0,0.7) !important;
+}
